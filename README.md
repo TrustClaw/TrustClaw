@@ -47,7 +47,7 @@ memU and IronClaw are more specialized, not for everyone
 Moltworker is the move if you know Cloudflare and want cloud-hosted but self-controlled
 "
 
-
+ok now that we got that out the way you may now proceed to view the original openclaw readme below to find out how to do stuff. i recommending giving the openclaw repo a star as well.
 
 <p align="center">
     <picture>
